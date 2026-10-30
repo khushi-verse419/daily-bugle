@@ -38,4 +38,3 @@ Daily Bugle is a Spider-Man-inspired news website created as a frontend developm
 This project was created to practise frontend development, React.js, CSS styling, and building an interactive website.
 
 
-**Made with ❤️ by Khushi**
